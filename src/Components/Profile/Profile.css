@@ -1,0 +1,19 @@
+.header{
+    text-align: center;
+    color: #282c34;
+    margin-right: 10px;
+    padding: 20px;
+}
+.custom_grid{
+    padding: 25px 80px;
+}
+.custom_paper{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.custom_label {
+    padding-top: 20px;
+    padding-right: 30px;
+    color: blue;
+}

@@ -1,0 +1,15 @@
+.custom_nav{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+.custom_link{
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: x-large;
+    padding: 10px;
+}
+.custom_link:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
